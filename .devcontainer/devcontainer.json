@@ -1,5 +1,5 @@
 {
   "name": "codespaces-copilot-test",
   "image": "mcr.microsoft.com/devcontainers/typescript-node:4-24-bookworm",
-  "postCreateCommand": "npm install -g @github/copilot"
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y gh && npm install -g @github/copilot"
 }
