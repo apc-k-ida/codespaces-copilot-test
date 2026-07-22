@@ -10,7 +10,7 @@
 
 ### リポジトリの複製簡易版
 
-[ここをクリックしてリポジトリを複製](https://github.com/new?template_owner=apc-k-ida&template_name=codespaces-copilot-test&owner=%40me&name=codespaces-copilot-test&visibility=private)
+[ここをクリックしてリポジトリを複製](https://github.com/new?template_owner=apc-k-ida&template_name=codespaces-copilot-test&owner=%40me&name=codespaces-copilot-test2&visibility=private)
 
 ### 1. 本リポジトリを複製
 
