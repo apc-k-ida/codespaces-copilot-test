@@ -8,6 +8,10 @@
 4. (Copilot CLIを利用する場合) CLI の動作確認
 5. Codespaces の削除
 
+### リポジトリの複製簡易版
+
+[ここをクリックしてリポジトリを複製](https://github.com/new?template_owner=apc-k-ida&template_name=codespaces-copilot-test&owner=%40me&name=codespaces-copilot-test&visibility=private)
+
 ### 1. 本リポジトリを複製
 
 **「Use this template」** の **「Create a new repository」** を選択
